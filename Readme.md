@@ -13,7 +13,7 @@ chains, and continuously improve my skills through labs, CTFs, and research.
 - DFIR
 - Penetration Testing (Web, Network, AD basics, )
 - Offensive Security Tooling
-- Exploits / maleware analyze 
+- Exploits / malware analyze 
 - Bluetooth / BLE Security
 - Attack Chain Simulation
 - Linux & Windows Internals (fundamentals)
