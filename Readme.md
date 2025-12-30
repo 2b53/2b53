@@ -62,3 +62,4 @@ chains, and continuously improve my skills through labs, CTFs, and research.
 
 - Discord: **2b53**
 - GitHub: https://github.com/2b53
+- Hackthebox : https://app.hackthebox.com/users/2386582
