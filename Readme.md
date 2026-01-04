@@ -52,11 +52,13 @@ chains, and continuously improve my skills through labs, CTFs, and research.
 ---
 
 ## 🎓 Learning & Platforms
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2b53.png)](https://tryhackme.com/p/2b53)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 **HTB Academy**
 - Targets compromised: **112**
 - Focus: Web, Network, AD, Linux,  Exploitation fundamentals
+
+**TryHackme**
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2b53.png)](https://tryhackme.com/p/2b53)
 
 ## 📫 Contact
 
