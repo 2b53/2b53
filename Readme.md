@@ -52,7 +52,7 @@ chains, and continuously improve my skills through labs, CTFs, and research.
 ---
 
 ## 🎓 Learning & Platforms
-![Tryhackme]<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2066992" style='border:none;'></iframe>
+![Tryhackme](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2066992)
 ![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=flat&logo=hackthebox&logoColor=black)
 **HTB Academy**
 - Targets compromised: **112**
