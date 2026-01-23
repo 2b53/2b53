@@ -32,6 +32,22 @@ chains, and continuously improve my skills through labs, CTFs, and research.
 > ⚠️ Educational & authorized use only
 
 ---
+## 🧰 Tools & Practical Experience
+
+### DFIR & Forensics
+- **Sleuth Kit / Autopsy** – Disk image analysis, timeline creation
+- **EZTools** – Windows artefact parsing (Registry, LNKs, JumpLists)
+- **Sysinternals** – Process, persistence & autoruns investigation
+- **Volatility (basic)** – Memory artefact extraction
+
+### Malware & Reverse Engineering
+- **PEStudio** – Static PE analysis & indicators
+- **HxD / HexTools** – Binary inspection & structure analysis
+- **exiftool** – Metadata extraction & file attribution
+
+### Network & Logs
+- **Wireshark** – Traffic inspection & protocol analysis
+- **Custom parsers** – Log correlation & IOC extraction
 
 ## 💻 Tech Stack
 
